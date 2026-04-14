@@ -1,4 +1,4 @@
-# Cat Catch Personal Build
+# Cat Catch 2.6.7 Personal Build
 基于原版猫抓的个人构建版本
 
 ## 项目说明
